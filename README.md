@@ -1,7 +1,5 @@
-fuseVJ
+parti
 ===========
-
-collaboration of Chewy and Firm
 
 A series of performance tools for audio/visual performance jamming
 
